@@ -159,7 +159,7 @@ VARIANT EasyOleStringToVariant(LPOLESTR pString)
 
 	VariantInit(&v);
 	V_VT(&v) = VT_BSTR;
-	V_BSTR(&v) = pString;
+	V_BSTR(&v) = SysAllocString(pString);
 
 	return v;
 }
