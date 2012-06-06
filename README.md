@@ -76,3 +76,4 @@ TODO
 -----
 
 * OLE Event Handlers
+* Simplification of Call Interface using [PIN](http://www.pintool.org) like Type,Param arguments.
