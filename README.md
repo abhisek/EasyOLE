@@ -25,7 +25,7 @@ if(FAILED(hResult) {
 }
 ```
 
-Once an IDispatch interface is obtained, various operation supported by the interface can be performed. [OLE-COM Object Viewer]("http://msdn.microsoft.com/en-us/library/windows/desktop/ms688269\(v=vs.85\).aspx") from Microsoft SDK Tools can be used to enumerate the COM interfaces and view corresponding TypeLib information.
+Once an IDispatch interface is obtained, various operation supported by the interface can be performed. [OLE-COM Object Viewer](http://msdn.microsoft.com/en-us/library/windows/desktop/ms688269\(v=vs.85\).aspx) from Microsoft SDK Tools can be used to enumerate the COM interfaces and view corresponding TypeLib information.
 
 Example Client
 ---------------
