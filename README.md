@@ -71,3 +71,8 @@ VOID SkypeOleStart()
 	}
 }
 ```
+
+TODO
+-----
+
+* OLE Event Handlers
